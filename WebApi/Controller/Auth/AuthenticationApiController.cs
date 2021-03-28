@@ -35,8 +35,7 @@ namespace WebApi
               
             }
             catch (Exception ex)
-            {
-                
+            {                
                 throw ex;
             } 
         }
